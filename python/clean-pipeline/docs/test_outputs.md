@@ -1,6 +1,6 @@
 ## `Test Harness Outputs`
 
-This cell contains outputs from the test harness above, in the order executed
+This cell contains outputs from the clean_pipeline test harness, in the order executed
 The test dataframes are printed once each, as they do not change with different config dictionaries
 
 ### `Config Dictionary Map Validation Tests`
